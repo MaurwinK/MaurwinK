@@ -1,6 +1,6 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=DevOps%20%26%20Cloud%20Engineer&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=DevOps%20%7C%20Cloud%20%7C%20CI%2FCD&fontSize=36&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Maurwin Bhardwaj</h2>
