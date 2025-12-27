@@ -72,7 +72,9 @@ My hands-on projects, technical skills, and professional experience are best rep
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaurwinK&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/MaurwinK">
+    <img src="https://github-readme-stats.vercel.app/api?username=MaurwinK&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
